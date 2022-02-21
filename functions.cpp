@@ -5,5 +5,5 @@
 
 std::string printHello() 
 {
-	return "Hello RTF";			//edited to the correct text
+	return "hello RTF";			//edited to the correct text
 }

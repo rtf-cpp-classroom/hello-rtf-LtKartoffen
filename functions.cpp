@@ -2,8 +2,9 @@
 
 #include "functions.h"
 
-
+//edited by Krasniuk at 22.02.22
+//again test
 std::string printHello() 
 {
-	return "hello  xxx";
+	return "hello RTF";			//edited to the correct text
 }
